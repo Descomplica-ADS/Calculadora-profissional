@@ -1,2 +1,2 @@
-# Calculadora profissional
+# Calculador
  
